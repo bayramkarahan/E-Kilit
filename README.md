@@ -16,7 +16,7 @@ Derlemek için kodu indiriniz.. kod adında bir dizinde açtığınızı varsaya
 <br/>
 3-cd build
 <br/>
-4-qmake ../E-Sabit.pro
+4-qmake ../E-Kilit.pro
 <br/>
 5-make&make clean
 <br/>
